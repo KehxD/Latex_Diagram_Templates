@@ -13,23 +13,11 @@ pdflatex <name>.tex
 
 ## Example for current Diagram Templates
 
-<object data="https://github.com/KehxD/Latex_Diagram_Templates/blob/master/floating_lines/float_lines_template.pdf" type="https://github.com/KehxD/Latex_Diagram_Templates/blob/master/floating_lines/float_lines_template.pdf" width="700px" height="700px">
-    <embed src="https://github.com/KehxD/Latex_Diagram_Templates/blob/master/floating_lines/float_lines_template.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/KehxD/Latex_Diagram_Templates/blob/master/floating_lines/float_lines_template.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+[Floating Line Graph](https://github.com/KehxD/Latex_Diagram_Templates/blob/master/floating_lines/float_lines_template.pdf)
 
-<object data="https://github.com/KehxD/Latex_Diagram_Templates/blob/master/bottom_up_lines/bot_up_template.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/KehxD/Latex_Diagram_Templates/blob/master/bottom_up_lines/bot_up_template.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/KehxD/Latex_Diagram_Templates/blob/master/bottom_up_lines/bot_up_template.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+[Bottom Up Line Graph](https://github.com/KehxD/Latex_Diagram_Templates/blob/master/bottom_up_lines/bot_up_template.pdf)
 
-<object data="https://github.com/KehxD/Latex_Diagram_Templates/blob/master/columns_bottom_up/bot_up_col_template.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/KehxD/Latex_Diagram_Templates/blob/master/columns_bottom_up/bot_up_col_template.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/KehxD/Latex_Diagram_Templates/blob/master/columns_bottom_up/bot_up_col_template.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+[Bar Graph](https://github.com/KehxD/Latex_Diagram_Templates/blob/master/columns_bottom_up/bot_up_col_template.pdf)
 
 ## Current Issues
 * Bar Graph with multiple bars can overlap with the longer one on top (thus obscuring the smaller one)
